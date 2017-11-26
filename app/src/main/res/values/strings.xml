@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 8.1</string>
+    <string name="ascendingBtn">ASCENDING</string>
+    <string name="descendingBtn">DESCENDING</string>
+</resources>
